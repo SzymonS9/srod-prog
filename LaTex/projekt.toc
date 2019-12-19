@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {0.1}Wst\IeC {\k e}p}{2}
+\contentsline {subsection}{\numberline {0.1.1}Czym jest gie\IeC {\l }da?}{2}
+\contentsline {section}{\numberline {0.2}Rozdzia\IeC {\l } Drugi}{3}
+\contentsline {subsection}{\numberline {0.2.1}Czynniki sukcesu na gie\IeC {\l }dzie}{3}
