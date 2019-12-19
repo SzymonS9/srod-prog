@@ -4,5 +4,5 @@
 \contentsline {chapter}{\numberline {2}Rozdzia\IeC {\l } Drugi}{3}
 \contentsline {section}{\numberline {2.1}Czynniki sukcesu na gie\IeC {\l }dzie}{3}
 \contentsline {chapter}{\numberline {3}Trzeci}{4}
-\contentsline {section}{\numberline {3.1}pierszy podrozdzia\IeC {\l } Trzeciego}{4}
+\contentsline {section}{\numberline {3.1}pierwszy podrozdzia\IeC {\l } Trzeciego}{4}
 \contentsline {chapter}{Bibliografia}{5}
