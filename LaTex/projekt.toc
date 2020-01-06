@@ -7,4 +7,3 @@
 \contentsline {section}{\numberline {2.1}Czynniki sukcesu na giełdzie}{4}%
 \contentsline {chapter}{\numberline {3}}{5}%
 \contentsline {section}{\numberline {3.1}pierwszy podrozdział Trzeciego}{5}%
-\contentsline {chapter}{Bibliografia}{6}%
