@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  8 JAN 2020 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  8 JAN 2020 01:37
 entering extended mode
 **./projekt.tex
 (projekt.tex
@@ -100,23 +100,27 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
 ) (projekt.aux)
 \openout1 = `projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -125,41 +129,41 @@ LaTeX Font Info:    ... okay on input line 8.
 \scratchbox=\box27
 \nofMPsegments=\count90
 \nofMParguments=\count91
-\everyMPshowfont=\toks17
+\everyMPshowfont=\toks18
 \MPscratchCnt=\count92
 \MPscratchDim=\dimen106
 \MPnumerator=\count93
 \makeMPintoPDFobject=\count94
-\everyMPtoPDFconversion=\toks18
+\everyMPtoPDFconversion=\toks19
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 9
-.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
+0.
 
 (C:\Users\Szymon\AppData\Roaming\MiKTeX\2.9\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
-9.
+10.
 
 (C:\Users\Szymon\AppData\Roaming\MiKTeX\2.9\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
-9.
+10.
 
 (C:\Users\Szymon\AppData\Roaming\MiKTeX\2.9\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 10.
 
 [1
 
@@ -180,12 +184,12 @@ LaTeX Font Info:    External font `plex10' loaded for size
 ]
 Rozdzia\PlPrIeC {\l } 1.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-0.
+1.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
  [2
 
 ] [3]
@@ -193,7 +197,7 @@ Rozdzia\PlPrIeC {\l } 2.
 <obraz1.jpg, id=24, 642.4pt x 392.46625pt>
 File: obraz1.jpg Graphic file (type jpg)
 <use obraz1.jpg>
-Package pdftex.def Info: obraz1.jpg  used on input line 56.
+Package pdftex.def Info: obraz1.jpg  used on input line 57.
 (pdftex.def)             Requested size: 308.3485pt x 188.38165pt.
 [4
 
@@ -201,10 +205,10 @@ Package pdftex.def Info: obraz1.jpg  used on input line 56.
 <tabela.png, id=28, 592.2125pt x 692.5875pt>
 File: tabela.png Graphic file (type png)
 <use tabela.png>
-Package pdftex.def Info: tabela.png  used on input line 64.
+Package pdftex.def Info: tabela.png  used on input line 66.
 (pdftex.def)             Requested size: 355.33023pt x 415.5557pt.
 
-Overfull \hbox (10.33023pt too wide) in paragraph at lines 64--65
+Overfull \hbox (10.33023pt too wide) in paragraph at lines 66--67
  [][] 
  []
 
@@ -219,7 +223,13 @@ Rozdzia\PlPrIeC {\l } 3.
 \tf@lof=\write4
 \openout4 = `projekt.lof'.
 
- (projekt.bbl [8
+ [8
+
+] (projekt.lot)
+\tf@lot=\write5
+\openout5 = `projekt.lot'.
+
+ (projekt.bbl [9
 
 ]
 LaTeX Font Info:    Trying to load font information for OT4+cmtt on input line 
@@ -252,19 +262,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--20
  pl / wiadomosc /
  []
 
-) [9
+) [10
 
 ] (projekt.aux) ) 
 Here is how much of TeX's memory you used:
- 1441 strings out of 492483
- 19162 string characters out of 3130462
- 80051 words of memory out of 3000000
- 5775 multiletter control sequences out of 15000+200000
- 16117 words of font info for 44 fonts, out of 3000000 for 9000
+ 1470 strings out of 492483
+ 19627 string characters out of 3130462
+ 80370 words of memory out of 3000000
+ 5797 multiletter control sequences out of 15000+200000
+ 16653 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,8n,27p,720b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Szymon/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl
-/pltt.enc}{C:/Users/Szymon/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plit.e
+/plit.enc}{C:/Users/Szymon/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/pltt.e
 nc}{C:/Users/Szymon/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}<C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sz
 ymon/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/Szym
@@ -275,11 +285,12 @@ ta/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr17.pfb><C:/Users/Szymon/AppData/
 Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr6.pfb><C:/Users/Szymon/AppData/Roam
 ing/MiKTeX/2.9/fonts/type1/public/pl/plr7.pfb><C:/Users/Szymon/AppData/Roaming/
 MiKTeX/2.9/fonts/type1/public/pl/plr8.pfb><C:/Users/Szymon/AppData/Roaming/MiKT
-eX/2.9/fonts/type1/public/pl/plti12.pfb><C:/Users/Szymon/AppData/Roaming/MiKTeX
-/2.9/fonts/type1/public/pl/pltt10.pfb>
-Output written on projekt.pdf (10 pages, 368978 bytes).
+eX/2.9/fonts/type1/public/pl/plti10.pfb><C:/Users/Szymon/AppData/Roaming/MiKTeX
+/2.9/fonts/type1/public/pl/plti12.pfb><C:/Users/Szymon/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/public/pl/pltt10.pfb>
+Output written on projekt.pdf (11 pages, 383634 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
