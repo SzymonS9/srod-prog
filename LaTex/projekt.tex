@@ -92,6 +92,18 @@ Wielkość badanej próby & Badany okres & Średnia stopa zwrotu w \% \\
 \end{table}
 \section{Transakcje arbitrażowe}
 Arbitraż\cite{perz2008sztuka} jest strategią pozwalającą na zarabianie bez ryzyka. Sytuacje klasycznego arbitrażu zdarzają się na rynku stosunkowo rzadko. Możliwość takich transakcji związane są z zaniżoną ceną niektórych instrumentów finansowych. Najczęściej wykorzystuje się przy tej strategii programy, które wychwytują większość okazji i automatycznie dokonują transakcji.
+Do wyceny optymalnej ceny zakupu akcji stosuje się wzór Blacka-Scholesa.\cite{wzor16}
+\begin{displaymath}
+C=S\Phi \left(\frac{ln\frac{s}{x}+(r+\frac{\sigma^2}{2})T}{\sigma \sqrt{T}}\right)-Xe^{-rT}\Phi \left(\frac{ln\frac{s}{x}+(r-\frac{\sigma^2}{2})T}{\sigma \sqrt{T}}\right)
+\end{displaymath}
+Gdzie:
+\newline \textbf{\textit{C}} - cena opcji kupna,
+\newline \textbf{\textit{S}} - aktualna cena instrumentu bazowego,
+\newline \textbf{\textit{X}} - cena rozliczenia opcji,
+\newline \textbf{\textit{T}} - termin wygaśnięcia opcji (liczony w latach),
+\newline \textbf{\textit{r}} - wysokość stopy procentowej wolnej od ryzyka dla terminu wygaśnięcia opcji (stawka wyrażona w skali roku),
+\newline \begin{math} \Phi \end{math} - dystrybuanta standardowego rozkładu normalnego,
+\newline \begin{math} \sigma \end{math} - współczynnik zmienności ceny instrumentu bazowego.
 \newpage
 \listoffigures
 \listoftables
